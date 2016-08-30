@@ -1,0 +1,199 @@
+Round ,Winner,Loser ,End of Game Margin,End of Q3 Margin,Half Time Margin,End of 1Q Margin,Game Type
+1,Western Bulldogs,Fremantle,65,40,38,41,Dominant
+1,West Coast,Brisbane,64,50,39,14,Dominant
+1,Sydney,Collingwood,80,69,62,20,Dominant
+1,Richmond,Carlton,9,-9,7,-3,Contested 4Q
+1,Port Adelaide,St Kilda,33,-1,-6,-3,Contested 3Q
+1,North Melbourne,Adelaide,10,-1,-18,-8,Contested 4Q
+1,Melbourne,GWS,2,-21,-10,8,Contested 4Q
+1,Gold Coast,Essendon,61,57,44,29,Dominant
+1,Geelong,Hawthorn,30,-2,30,15,Contested 
+2,Western Bulldogs,St Kilda,57,38,25,17,Dominant
+2,Sydney,Carlton,60,45,38,8,Contested 1Q
+2,North Melbourne,Brisbane,34,37,33,-4,Contested 1Q
+2,Hawthorn,West Coast,46,27,21,26,Dominant
+2,GWS,Geelong,13,24,15,2,Contested
+2,Gold Coast,Fremantle,26,35,29,-1,Contested 1Q
+2,Essendon,Melbourne,13,9,9,4,Contested 4Q
+2,Collingwood,Richmond,1,-5,-5,-1,Contested 4Q
+2,Adelaide,Port Adelaide,58,67,51,32,Dominant
+3,West Coast,Fremantle,33,19,6,-8,Contested 2Q
+3,Sydney,GWS,25,14,6,13,Contested 2Q
+3,St Kilda,Collingwood,29,31,2,12,Contested 2Q
+3,Port Adelaide,Essendon,61,61,41,36,Dominant
+3,North Melbourne,Melbourne,5,18,-7,36,Contested
+3,Hawthorn,Western Bulldogs,3,-19,6,14,Contested 4Q
+3,Gold Coast,Carlton,54,26,14,11,Dominant
+3,Geelong,Brisbane,69,39,38,27,Dominant
+3,Adelaide,Richmond,36,47,25,13,Contested 1Q
+4,Western Bulldogs,Carlton,36,43,43,18,Dominant
+4,West Coast,Richmond,68,55,54,32,Dominant
+4,North Melbourne,Fremantle,31,8,12,15,Contested 3Q
+4,Melbourne,Collingwood,35,30,27,30,Dominant
+4,Hawthorn,St Kilda,3,0,5,18,Contested 4Q
+4,GWS,Port Adelaide,86,66,61,23,Dominant
+4,Geelong,Essendon,30,8,2,1,Contested 3Q
+4,Brisbane,Gold Coast,13,1,8,-2,Contested 4Q
+4,Adelaide,Sydney,10,-1,2,-3,Contested 4Q
+5,Western Bulldogs,Brisbane,53,43,34,11,Contested 1Q
+5,Sydney,West Coast,39,21,9,-6,Contested 2Q
+5,North Melbourne,Gold Coast,38,21,22,18,Contested
+5,Melbourne,Richmond,33,16,22,16,Contested 2Q
+5,Hawthorn,Adelaide,3,-12,2,-16,Contested 4Q
+5,GWS,St Kilda,47,16,21,14,Contested
+5,Geelong,Port Adelaide,48,30,11,-24,Contested 2Q
+5,Collingwood,Essendon,69,76,76,45,Dominant
+5,Carlton,Fremantle,4,-2,1,0,Contested 4Q
+6,West Coast,Collingwood,62,19,29,33,Contested
+6,Sydney,Brisbane,3,8,14,22,Contested 4Q
+6,St Kilda,Melbourne,39,42,12,-11,Contested 1Q
+6,Port Adelaide,Richmond,35,21,18,5,Contested 1Q
+6,North Melbourne,Western Bulldogs,16,12,12,12,Contested
+6,GWS,Hawthorn,75,64,45,32,Dominant
+6,Geelong,Gold Coast,120,83,41,14,Dominant
+6,Carlton,Essendon,15,7,15,12,Contested 4Q
+6,Adelaide,Fremantle,33,32,12,7,Contested 2Q
+7,Western Bulldogs,Adelaide,15,18,20,24,Contested
+7,Sydney,Essendon,81,39,17,6,Contested 2Q
+7,Port Adelaide,Brisbane,77,48,29,9,Contested 1Q
+7,North Melbourne,St Kilda,7,17,19,14,Contested 4Q
+7,Melbourne,Gold Coast,73,44,5,-11,Contested 2Q
+7,Hawthorn,Richmond,46,9,15,4,Contested 3Q
+7,GWS,Fremantle,18,22,20,0,Contested
+7,Geelong,West Coast,44,24,35,-3,Contested 1Q
+7,Carlton,Collingwood,15,19,11,2,Contested
+8,Western Bulldogs,Melbourne,32,31,28,21,Dominant
+8,West Coast,St Kilda,103,77,62,48,Dominant
+8,Richmond,Sydney,1,-18,5,-10,Contested 4Q
+8,North Melbourne,Essendon,14,35,50,24,Contested
+8,Hawthorn,Fremantle,41,51,-2,9,Contested 2Q
+8,GWS,Gold Coast,91,66,39,21,Dominant
+8,Geelong,Adelaide,26,2,12,13,Contested 3Q
+8,Collingwood,Brisbane,78,68,65,33,Dominant
+8,Carlton,Port Adelaide,2,-5,-11,-9,Contested 4Q
+9,West Coast,Port Adelaide,8,19,25,13,Contested
+9,Sydney,Hawthorn,14,11,25,6,Contested
+9,St Kilda,Essendon,46,32,10,7,Contested 2Q
+9,Richmond,Fremantle,38,27,31,8,Contested 1Q
+9,North Melbourne,Carlton,67,47,35,19,Dominant
+9,Melbourne,Brisbane,63,42,32,21,Dominant
+9,GWS,Western Bulldogs,25,34,17,5,Contested 1Q
+9,Collingwood,Geelong,24,27,34,44,Dominant
+9,Adelaide,Gold Coast,75,74,53,21,Dominant
+10,Western Bulldogs,Collingwood,21,-3,-5,-1,Contested 3Q
+10,West Coast,Gold Coast,77,50,43,20,Dominant
+10,Sydney,North Melbourne,26,26,9,23,Contested 2Q
+10,St Kilda,Fremantle,34,-13,1,16,Contested 3Q
+10,Richmond,Essendon,38,41,16,20,Dominant
+10,Port Adelaide,Melbourne,45,17,21,-3,Contested 1Q
+10,Hawthorn,Brisbane,48,12,4,9,Contested 3Q
+10,Carlton,Geelong,19,19,20,0,Contested 1Q
+10,Adelaide,GWS,22,46,2,17,Contested 2Q
+11,Western Bulldogs,West Coast,8,13,8,-3,Contested 4Q
+11,Sydney,Gold Coast,38,24,13,-11,Contested 2Q
+11,Port Adelaide,Collingwood,67,49,25,11,Contested 1Q
+11,North Melbourne,Richmond,70,57,25,23,Dominant
+11,Hawthorn,Melbourne,18,0,-1,17,Contested 3Q
+11,Geelong,GWS,10,2,5,-11,Contested 4Q
+11,Fremantle,Essendon,79,81,46,22,Dominant
+11,Carlton,Brisbane,38,39,39,24,Dominant
+11,Adelaide,St Kilda,88,75,51,33,Dominant
+12,Western Bulldogs,Port Adelaide,3,-9,2,10,Contested 4Q
+12,St Kilda,Carlton,32,35,19,8,Contested 1Q
+12,Richmond,Gold Coast,17,-10,16,6,Contested 4Q
+12,Melbourne,Collingwood,46,31,26,-12,Contested 1Q
+12,Hawthorn,Essendon,108,76,58,30,Dominant
+12,GWS,Sydney,32,20,12,1,Contested 2Q
+12,Geelong,North Melbourne,31,15,-10,4,Contested 3Q
+12,Fremantle,Brisbane,83,67,45,0,Contested 1Q
+12,Adelaide,West Coast,29,-12,-19,-17,Contested 3Q
+13,West Coast,Brisbane,49,45,36,1,Contested 1Q
+13,Sydney,Melbourne,55,25,17,11,Contested 1Q
+13,Hawthorn,North Melbourne,9,7,-2,-15,Contested 4Q
+13,GWS,Essendon,27,8,-12,-10,Contested 3Q
+13,Geelong,Western Bulldogs,57,28,48,28,Dominant
+13,Fremantle,Port Adelaide,17,9,8,-6,Contested 3Q
+14,St Kilda,Geelong,3,11,24,16,Contested 4Q
+14,Richmond,Brisbane,42,56,38,22,Dominant
+14,Hawthorn,Gold Coast,26,14,-1,-15,Contested 3Q
+14,GWS,Carlton,62,29,24,23,Dominant
+14,Collingwood,Fremantle,48,29,40,21,Dominant
+14,Adelaide,North Melbourne,33,6,-4,18,Contested 3Q
+15,Western Bulldogs,Sydney,4,13,-10,-9,Contested 4Q
+15,West Coast,Essendon,78,34,18,-3,Contested 1Q
+15,Port Adelaide,Richmond,38,23,23,-6,Contested 1Q
+15,Gold Coast,St Kilda,40,50,37,18,Dominant
+15,Collingwood,Carlton,12,18,5,2,Contested
+15,Adelaide,Melbourne,22,9,-11,17,Contested 3Q
+16,Western Bulldogs,Richmond,10,-7,1,2,Contested 4Q
+16,West Coast,North Melbourne,32,33,18,7,Contested 2Q
+16,Sydney,Geelong,38,27,15,7,Contested 2Q
+16,St Kilda,Essendon,11,9,10,12,Contested 4Q
+16,Melbourne,Fremantle,32,31,43,29,Dominant
+16,Hawthorn,Port Adelaide,22,30,6,-2,Contested 2Q
+16,Gold Coast,Brisbane,26,24,28,22,Contested
+16,Collingwood,GWS,32,42,18,-24,Contested 2Q
+16,Adelaide,Carlton,60,44,23,9,Contested 1Q
+17,Western Bulldogs,Gold Coast,48,43,42,21,Contested 1Q
+17,West Coast,Carlton,7,21,16,8,Contested
+17,St Kilda,Melbourne,36,11,13,-17,Contested 3Q
+17,Richmond,Essendon,29,12,8,0,Contested
+17,Port Adelaide,North Melbourne,28,36,39,34,Dominant
+17,Hawthorn,Sydney,5,-5,11,9,Contested 4Q
+17,GWS,Brisbane,79,74,51,6,Contested 1Q
+17,Geelong,Fremantle,17,14,-1,-16,Contested 4Q
+17,Adelaide,Collingwood,28,23,18,20,Dominant
+18,West Coast,Melbourne,6,-6,-2,-1,Contested 4Q
+18,Sydney,Carlton,6,7,-8,-3,Contested 4Q
+18,St Kilda,Western Bulldogs,15,5,6,-5,Contested 4Q
+18,North Melbourne,Collingwood,40,27,39,27,Contested
+18,Hawthorn,Richmond,70,28,10,0,Contested 2Q
+18,GWS,Port Adelaide,19,4,-20,-12,Contested 3Q
+18,Gold Coast,Fremantle,24,13,-8,14,Contested 3Q
+18,Geelong,Adelaide,30,29,1,6,Contested 2Q
+18,Brisbane,Essendon,37,40,13,17,Contested 2Q
+19,Sydney,Fremantle,90,72,29,19,Dominant
+19,Port Adelaide,Brisbane,94,62,47,5,Contested 1Q
+19,North Melbourne,St Kilda,23,22,12,6,Contested 2Q
+19,Melbourne,Gold Coast,2,8,12,-12,Contested 4Q
+19,Hawthorn,Carlton,19,12,6,13,Contested
+19,GWS,Richmond,88,63,63,50,Dominant
+19,Geelong,Western Bulldogs,25,27,6,1,Contested 2Q
+19,Collingwood,West Coast,19,2,14,-9,Contested 4Q
+19,Adelaide,Essendon,82,82,45,17,Dominant
+20,Western Bulldogs,North Melbourne,14,20,13,-4,Contested 4Q
+20,West Coast,Fremantle,46,30,11,-6,Contested 2Q
+20,Sydney,Port Adelaide,67,74,49,41,Dominant
+20,St Kilda,Carlton,71,47,42,19,Dominant
+20,Richmond,Collingwood,15,12,6,-14,Contested 4Q
+20,Melbourne,Hawthorn,29,6,5,11,Contested 3Q
+20,GWS,Gold Coast,8,-6,-6,6,Contested 4Q
+20,Geelong,Essendon,66,54,42,17,Dominant
+20,Adelaide,Brisbane,138,108,64,28,Dominant
+21,Western Bulldogs,Collingwood,3,0,1,5,Contested 4Q
+21,West Coast,GWS,1,-23,-5,-11,Contested 4Q
+21,Sydney,St Kilda,70,41,5,-5,Contested 2Q
+21,Melbourne,Port Adelaide,40,22,37,19,Dominant
+21,Hawthorn,North Melbourne,39,20,23,45,Dominant
+21,Geelong,Richmond,4,-35,-21,-2,Contested 4Q
+21,Essendon,Gold Coast,6,-7,7,2,Contested 4Q
+21,Brisbane,Carlton,4,25,40,24,Contested
+21,Adelaide,Fremantle,72,61,31,15,Dominant
+22,Western Bulldogs,Essendon,40,41,22,30,Dominant
+22,West Coast,Hawthorn,25,42,32,20,Contested 1Q
+22,Sydney,North Melbourne,9,8,12,12,Contested 4Q
+22,St Kilda,Richmond,9,13,21,16,Contested
+22,GWS,Fremantle,92,46,20,7,Contested 1Q
+22,Geelong,Brisbane,60,42,15,36,Dominant
+22,Collingwood,Gold Coast,71,77,68,43,Dominant
+22,Carlton,Melbourne,20,24,18,20,Contested
+22,Adelaide,Port Adelaide,15,1,11,-1,Contested 4Q
+23,West Coast,Adelaide,29,37,11,1,Contested 2Q
+23,Sydney,Richmond,113,123,81,31,Dominant
+23,St Kilda,Brisbane,58,45,29,13,Contested 1Q
+23,Port Adelaide,Gold Coast,23,15,21,5,Contested 1Q
+23,Hawthorn,Collingwood,1,12,-11,-10,Contested 4Q
+23,GWS,North Melbourne,37,27,11,-2,Contested 2Q
+23,Geelong,Melbourne,111,70,52,38,Dominant
+23,Fremantle,Western Bulldogs,20,9,11,9,Contested 3Q
+23,Essendon,Carlton,24,47,19,4,Contested 1Q
