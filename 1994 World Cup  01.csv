@@ -1,0 +1,53 @@
+Game Identifier,Date,Game,Winning Team,Losing Team,Score,Goal 1,Goal 2,Goal 3,Goal 4,Goal 5,Goal 6,Goal 7,Goal Scoring Sequence,Total Goals Scored,Goal Difference
+1,17 June 1994,Germany v Bolivia,Germany,Bolivia,1v0,61 Germany,,,,,,,1v0,1,1
+2,17 June 1994,Spain v South Korea,Draw,Draw,2v2,51 Spain,55 Spain,85 South Korea,90 South Korea,,,,"1v0, 2v0, 2v1, 2v2",4,0
+3,18 June 1994,USA v Switzerland,Draw,Draw,1v1,39 Switzerland,44 USA ,,,,,,"0v1, 1v1",2,0
+4,18 June 1994,Colombia v Romania,Romania,Columbia,1v3,15 Romania,34 Romania,43 Colombia,89 Romania,,,,"0v1, 0v2, 1v2, 1v3",4,2
+5,18 June 1994,Italy v Ireland,Ireland,Italy,0v1,11 Ireland,,,,,,,0v1,1,1
+6,19 June 1994,Cameroon v Sweden,Draw,Draw,2v2,8 Sweden,31 Cameroon,47 Cameroon,75 Sweden,,,,"0v1, 1v1, 2v1, 2v2",4,0
+7,19 June 1994,Norway v Mexico,Norway,Mexico,1v0,84 Norway,,,,,,,1v0,1,1
+8,19 June 1994,Belgium v Morocco,Belgium,Morocco,1v0,11 Belgium,,,,,,,1v0,1,1
+9,20 June 1994,Brazil v Russia,Brazil,Russia,2v0,26 Brazil,52 Brazil (P),,,,,,"1v0, 2v0",2,2
+10,20 June 1994,Netherlands v Saudi Arabia,Netherlands,Saudi Arabia,2v1,18 Saudi Arabia,50 Netherlands,86 Netherlands,,,,,"0v1, 1v1, 2v1",3,1
+11,21 June 1994,Germany v Spain,Draw,Draw,1v1,14 Spain,48 Germany,,,,,,"0v1, 1v1",2,0
+12,21 June 1994,Argentina v Greece,Argentina,Greece,4v0,2 Argentina,44 Argentina,60 Argentina,90 Argentina (P),,,,"1v0, 2v0, 3v0, 4v0",4,4
+13,21 June 1994,Nigeria v Bulgaria,Nigeria,Bulgaria,3v0,21 Nigeria,43 Nigeria,55 Nigeria,,,,,"1v0, 2v0, 3v0",3,3
+14,22 June 1994,Romania v Switzerland,Switzerland,Romania,1v4,16 Switzerland,35 Romania,52 Switzerland,65 Switzerland,72 Switzerland,,,"0v1, 1v1, 1v2, 1v3, 1v4",5,3
+15,22 June 1994,USA v Colombia,USA,Colombia,2v1,35 USA (OG),52 USA,90 Colombia,,,,,"1v0, 2v0, 2v1",3,1
+16,23 June 1994,South Korea v Bolivia,Draw,Draw,0v0,,,,,,,,0v0,0,0
+17,23 June 1994,Italy v Norway,Italy,Norway,1v0,69 Italy,,,,,,,1v0,1,1
+18,24 June 1994,Brazil v Cameroon,Brazil,Cameroon,3v0,39 Brazil,66 Brazil,73 Bebeto,,,,,"1v0, 2v0, 3v0",3,3
+19,24 June 1994,Sweden v Russia,Sweden,Russia,3v1,4 Russia (P),37 Sweden (P),59 Sweden,81 Sweden,,,,"0v1, 1v1, 2v1, 3v1",4,2
+20,24 June 1994,Mexico v Ireland,Mexico,Ireland,2v1,42 Mexico,65 Mexico,84 Ireland,,,,,"1v0, 2v0, 2v1",3,1
+21,25 June 1994,Argentina v Nigeria,Argentina,Nigeria,2v1,8 Nigeria,21 Argentina,28 Argentina,,,,,"0v1, 1v1, 2v1",3,1
+22,25 June 1994,Saudi Arabia v Morocco,Saudi Arabia,Morocco,2v1,7 Saidi Arabia (P),26 Morocco,45 Saudi Arabia,,,,,"1v0, 1v1, 2v1",3,1
+23,25 June 1994,Belgium v Netherlands,Belgium,Netherlands,1v0,65 Albert,,,,,,,1v0,1,1
+24,26 June 1994,Switzerland v Colombia,Colombia,Switzerland,0v2,44 Colombia,90 Colombia,,,,,,"0v1, 0v2",2,2
+25,26 June 1994,USA v Romania,Romania,USA,0v1,18 Romania,,,,,,,0v1,1,1
+26,26 June 1994,Bulgaria v Greece,Bulgaria,Greece,4v0,5 Bulgaria (P),55 Bulgaria (P),65 Bulgaria,90 Bulgaria,,,,"1v0, 2v0, 3v0, 4v0",4,4
+27,27 June 1994,Bolivia v Spain,Spain,Bolivia,1v3,19 Spain (P),66 Spain,67 Bolivia,70 Spain,,,,"0v1, 0v2, 1v2, 1v3",4,2
+28,27 June 1994,Germany v South Korea,Germany,South Korea,3v2,12 Germany,20 Germany,37 Germany,52 South Korea,63 South Korea,,,"1v0, 2v0, 3v0, 3v1, 3v2",5,1
+29,28 June 1994,Russia v Cameroon,Russia,Cameroon,6v1,15 Russia,41 Russia,44 Russia (P),46 Cameroon,72 Russia,75 Russia,81 Russia,"1v0, 2v0, 3v0, 3v1, 4v1, 5v1, 6v1",7,5
+30,28 June 1994,Brazil v Sweden,Draw,Draw,1v1,23 Sweden,46 Brazil,,,,,,"0v1, 1v1",2,0
+31,28 June 1994,Italy v Mexico,Draw,Draw,1v1,48 Italy,57 Mexico,,,,,,"1v0, 1v1",2,0
+32,28 June 1994,Ireland v Norway,Draw,Draw,0v0,,,,,,,,0v0,0,0
+33,29 June 1994,Belgium v Saudi Arabia,Saudi Arabia,Belgium,0v1,5 Saudi Arabia,,,,,,,0v1,1,1
+34,29 June 1994,Morocco v Netherlands,Netherlands,Morocco,1v2,43 Netherlands,47 Morocco,77 Netherlands,,,,,"0v1, 1v1, 1v2",3,1
+35,30 June 1994,Argentina v Bulgaria,Bulgaria,Argentina,0v2,61 Bulgaria,90+3 Bulgaria,,,,,,"0v1, 0v2",2,2
+36,30 June 1994,Greece v Nigeria,Nigeria,Greece,0v2,45+2 Nigeria,90+5 Nigeria,,,,,,"0v1, 0v2",2,2
+37,2 July 1994,Germany v Belgium,Germany,Belgium,3v2,6 Germany,8 Belgium,11 Germany,40 Germany,90 Belgium,,,"1v0, 1v1, 2v1, 3v1, 3v2",5,1
+38,2 July 1994,Spain v Switzerland,Spain,Switzerland,3v0,15 Spain,74 Spain,86 Spain (P),,,,,"1v0, 2v0, 3v0",3,3
+39,3 July 1994,Saudi Arabia v Sweden,Sweden,Saudi Arabia,1v3,6 Sweden,51 Sweden,85 Saudi Arabia,88 Sweden,,,,"0v1, 0v2, 1v2, 1v3",4,2
+40,3 July 1994,Romania v Argentina,Romania,Argentina,3v2,11 Romania,16 Argentina (P),18 Romania,58 Romania,75 Argentina,,,"1v0, 1v1, 2v1, 3v1, 3v2",5,1
+41,4 July 1994,Netherlands v Ireland,Netherlands,Ireland,2v0,11 Netherlands,41 Netherlands,,,,,,"1v0, 2v0",2,2
+42,4 July 1994,Brazil v USA,Brazil,USA,1v0,72 Brazil,,,,,,,1v0,1,1
+43,5 July 1994,Nigeria v Italy,Italy,Nigeria,1v2,25 Nigeria,88 Italy,102 Italy (P),,,,,"1v0, 1v1, 1v2",3,1
+44,5 July 1994,Mexico v Bulgaria,Draw,Draw,1v1,6 Bulgaria,18 Mexico (P),,,,,,"0v1, 1v1",2,0
+45,9 July 1994,Italy v Spain,Italy,Spain,2v1,25 Italy,58 Spain,88 Italy,,,,,"1v0, 1v1, 2v1",3,1
+46,9 July 1994,Netherlands v Brazil,Brazil,Netherlands,2v3,53 Brazil,63 Brazil,64 Netherands,76 Netherlands,81 Brazil,,,"0v1, 0v2, 1v2, 2v2, 2v3",5,1
+47,10 July 1994,Bulgaria v Germany,Bulgaria,Germany,2v1,47 Germany (P),75 Bulgaria,78 Bulgaria,,,,,"0v1, 1v1, 2v1",3,1
+48,10 July 1994,Romania v Sweden,Draw,Draw,2v2,78 Sweden,88 Romania,101 Romania ,115 Sweden,,,,"0v1, 1v1, 2v1, 2v2",4,0
+49,13 July 1994,Bulgaria v Italy,Italy,Bulgaria,1v2,21 Italy,25 Italy,44 Bulgaria (P),,,,,"0v1, 0v2, 1v2",3,1
+50,13 July 1994,Sweden v Brazil,Brazil,Sweden,0v1,80 Brazil,,,,,,,0v1,1,1
+51,16 July 1994,Sweden v Bulgaria,Sweden,Bulgaria,4v0,8 Sweden,30 Sweden,37 Sweden,40 Sweden,,,,"1v0, 2v0, 3v0, 4v0",4,4
+52,17 July 1994,Brazil v Italy,Draw,Draw,0v0,,,,,,,,0v0,0,0
